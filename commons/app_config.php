@@ -1,7 +1,7 @@
 <?php
-    const BASE_URL = "http://localhost/projectda1/";
+    const BASE_URL = "http://localhost/da1/learn/projectda1/";
 
-    const ADMIN_URL = "http://localhost/projectda1/admin/";
+    const ADMIN_URL = "http://localhost/da1/learn/projectda1/admin/";
     const CLIENT_URL = "http://localhost/projectda1/";
 
     const CLIENT_ASSETS = BASE_URL. "public/client/";
